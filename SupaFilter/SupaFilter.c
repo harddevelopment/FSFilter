@@ -51,7 +51,7 @@ const FLT_REGISTRATION FilterRegistration = {
 NTSTATUS FltSend(wchar_t *message) {
 	NTSTATUS status;
 	if (ClientPort == NULL) {
-		KdPrint(("Client Port not activated\n"));
+		KdPrint(("Client Port not activated git\n"));
 		return 1;
 	}
 
