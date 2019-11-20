@@ -1,0 +1,15 @@
+// путь к файлу с паролями
+C:\Users\Pavel\AppData\Local\Google\Chrome\User Data\Default\Login Data
+
+// исходники DPAPI
+https://github.com/obviex/Samples/blob/master/Dpapi.md
+
+// установка SQLite для C#
+http://www.sergechel.info/ru/content/using-sqllite-with-c-sharp-part-4-sqlite-net
+
+//установка SQLite для C# с помощью NuGet в Visual Studio
+PM> Install-Package System.Data.SQLite -Version 1.0.111
+
+// исходники проекта по расшифровке паролей
+https://codeby.net/threads/voruem-paroli-iz-google-chrome.58962/
+https://habr.com/ru/post/134982/

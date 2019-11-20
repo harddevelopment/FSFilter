@@ -1,0 +1,27 @@
+﻿  Building 'SupaFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: устранение рисков Spectre включено, однако библиотеки Spectre с устраненными рисками не найдены. Убедитесь, что рабочая нагрузка Visual Studio включает библиотеки Spectre с устраненными рисками. Дополнительные сведения см. в статье https://aka.ms/Ofhn4c.
+  Stamping x64\Debug\SupaFilter.inf
+  Stamping [Version] section with DriverVer=11/16/2019,13.40.6.929
+D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.inf(24-24): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.inf(35-35): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  SupaFilter.c
+  SupaFilter.vcxproj -> D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter\supafilter.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Downloads\SupaFilter (2)\SupaFilter\x64\Debug\SupaFilter\supafilter.cat
+  

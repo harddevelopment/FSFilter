@@ -1,0 +1,23 @@
+﻿  Building 'SupaFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\SupaFilter.inf
+  Stamping [Version] section with DriverVer=09/13/2019,3.48.14.586
+C:\Users\Кирилл\source\repos\SupaFilter\x64\Debug\SupaFilter.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  SupaFilter.c
+  SupaFilter.vcxproj -> C:\Users\Кирилл\source\repos\SupaFilter\Debug\SupaFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\\source\repos\SupaFilter\Debug\SupaFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Кирилл\source\repos\SupaFilter\Debug\SupaFilter\supafilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\\source\repos\SupaFilter\Debug\SupaFilter\supafilter.cat
+  
